@@ -1,0 +1,9 @@
+In order to start the game, enter the IP address of your opponent's computer, and place your battleship on the grid.
+
+To attack your opponent's ship, click on the grid in the top right hand corner. I was not able to make the dead ship function work, so at the momement the game would last forver, but all the updates would happen in "live" time.
+
+I also was not able to get the Pd patch to function as I intende and eventually gave up on it. 
+
+The Battleship class has overloaded constructors so that eventually players can place the ship anywhere in the confines of the grid rather than strictly in the  columns.
+
+The game comes with two slightly different sketchesm but they work in tandem to create the games effects. Hope you enjoy it!

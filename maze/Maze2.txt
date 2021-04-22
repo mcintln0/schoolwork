@@ -1,0 +1,90 @@
+Size 20
+Width 30
+Start 100 100 29 29
+
+West 3
+	*North 6
+	*East 2
+	*North 3
+	*West 5
+West 2
+North 2
+	*West 4
+	*South 2
+North 4
+West 5
+	*West 6
+	*North 3
+	*West 4
+North 3
+West 3
+North 4
+	*North 6
+	*East 4
+		**North 4
+		**East 3
+			***East 4
+			***South 4
+			***West 2
+			***South 3
+			***East 2
+		**North 5
+		**East 3
+		**South 3
+		**West 1
+	*East 2
+	*South 4
+	*West 4
+	*North 2
+	*East 2
+West 4
+	*North 8
+	*East 1
+	*North 2
+	*East 3
+	*North 2
+	*East 3
+	*North 4
+	*West 3
+West 3
+	*North 3
+	*West 2
+West 2
+	*West 4
+	*South 6
+	*West 2
+	*South 5
+	*East 4
+	*South 2
+	*East 3
+	*North 2
+	*East 2
+	*South 2
+	*East 4
+	*North 4
+	*West 8
+North 4
+	*West 6
+	*South 2
+	*West 1
+	*South 5
+North 4
+	*East 4
+	*North 3
+	*West 3
+		**North 5
+		**West 2
+	*South 1
+	*West 5
+	*South 1
+West 7
+North 4
+	*East 5
+	*North 2
+	*East 5
+	*South 8
+	*West 2
+North 4
+Finish 0
+
+
