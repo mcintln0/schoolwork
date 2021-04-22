@@ -1,0 +1,24 @@
+#N canvas 282 124 450 300 12;
+#X msg 41 75 440;
+#X msg 107 77 500;
+#X obj 37 149 osc~;
+#X msg 107 193 0.5;
+#X msg 175 199 1;
+#X obj 50 226 *~;
+#X obj 52 275 dac~;
+#X obj 78 24 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 158 24 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X text 318 122 LaToya McIntyre Ex. 2.2.1.2.1;
+#X connect 0 0 2 0;
+#X connect 1 0 2 0;
+#X connect 2 0 5 0;
+#X connect 3 0 5 1;
+#X connect 4 0 5 1;
+#X connect 5 0 6 0;
+#X connect 5 0 6 1;
+#X connect 7 0 3 0;
+#X connect 7 0 0 0;
+#X connect 8 0 4 0;
+#X connect 8 0 1 0;
